@@ -1,7 +1,7 @@
-# Deck Calculator
+# Floating Deck Calculator
 
 ## Project Description
-A Python-based deck calculator application for calculating various deck-related measurements and material requirements.
+A web-based application that calculates materials needed for building a floating deck, including deck boards, base wood, screws, and fasteners.
 
 ## Features
 - [Feature 1]
